@@ -1,0 +1,26 @@
+{
+  "name": "BenzWebApp",
+  "version": "0.0.0",
+  "description": "Test app",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hptown/BenzWebApp.git"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "Benz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hptown/BenzWebApp/issues"
+  },
+  "homepage": "https://github.com/hptown/BenzWebApp",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^3.5.1"
+  }
+}
